@@ -1,0 +1,20 @@
+/*identificador*/
+
+p {
+   font-style: normal;
+}
+p {
+    color: green;
+}
+p#id {
+    color: blue;
+}
+p.especial1 {
+    color: red;
+}
+p.especial2 { 
+    color: red;
+}
+p.especial3 {
+    color: red;
+}
